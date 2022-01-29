@@ -1,0 +1,22 @@
+body {
+  -webkit-background-size: cover; /* Chrome and Safari */
+  -moz-background-size: cover; /* Firefox */
+  -o-background-size: cover; /* Opera */
+  background-size: cover;
+  font-family: "Noto Sans", sans-serif; /* Use 'Noto Sans' first, otherwise use sans-serif */
+}
+
+.about {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.me {
+  width: 200px;
+  height: auto;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: black;
+}
